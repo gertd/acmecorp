@@ -1,0 +1,5 @@
+{
+  "assertions": [
+  	{"check": {"object_type": "", "object_id": "", "relation": "", "subject_type": "", "subject_id": ""}, "expected": true}
+  ]
+}

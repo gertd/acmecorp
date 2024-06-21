@@ -1,0 +1,9 @@
+{
+    "acmecorp":{
+        "title": "AcmeCorp",
+        "short_description": "",
+        "description": "",
+        "docs_url": "",
+        "topaz_url": "acmecorp.json"
+    }
+}
