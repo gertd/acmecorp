@@ -1,0 +1,22 @@
+{
+  "name": "acmecorp",
+  "description": "AcmeCorp topaz template",
+  "assets": {
+      "manifest": "model/manifest.yaml",
+      "policy": {
+          "name": "rebac",
+          "resource": "ghcr.io/aserto-policies/policy-rebac:latest"
+      },
+      "idp_data": [
+          "idp/objects.json",
+          "idp/relations.json"
+      ],
+      "domain_data": [
+        "data/objects.json",
+        "data/relations.json"
+      ],
+      "assertions": [
+        "test/assertions.json"
+      ]
+  }
+}
