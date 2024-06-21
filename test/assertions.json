@@ -1,5 +1,5 @@
 {
   "assertions": [
-  	{"check": {"object_type": "", "object_id": "", "relation": "", "subject_type": "", "subject_id": ""}, "expected": true}
+  	{"check": {"object_type": "user", "object_id": "euang@acmecorp.com", "relation": "manager", "subject_type": "user", "subject_id": "aprils@acmecorp.com"}, "expected": true}
   ]
 }
